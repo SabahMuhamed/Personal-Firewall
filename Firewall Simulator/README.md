@@ -6,4 +6,3 @@ The Basic Firewall Simulator is a simple Python program that demonstrates how a 
 
 This project is designed for beginners in network security and cybersecurity who want to understand the core concepts of firewalls, such as rule-based filtering and access control.
 
-This simulator provides a hands-on way to visualize how firewalls operate without needing complex setups or real network environments. By experimenting with the rules, users can see how different configurations affect incoming requests, making it a practical tool for learning the fundamentals of network defense and traffic control.
