@@ -66,29 +66,31 @@ Blocking IP: 192.168.56.20, packet rate: 512.00 pkt/s
 
 
 ```
+Script Execution
 <p align="center">
   <img src="/Screenshots/firewall_dos_blocker.png" width="500" alt="DOS-BLOCKER-SCRIPT"/>
 </p>
-Script Execution
 
+Dos-Attack using msfconsole
 <p align="center">
   <img src="/Screenshots/dos-attack.png" width="500" alt="DOS-ATTACK"/>
 </p>
-Dos-Attack using msfconsole
 
+Incoming Traffic capturing by tcpdump
 <p align="center">
   <img src="/Screenshots/packets-receiving.png" width="500" alt="TCPDUMP"/>
 </p>
 
+Script blocked the IP
 <p align="center">
   <img src="/Screenshots/blocked.png" width="500" alt="script blocked ip"/>
 </p>
-Script blocked the IP
 
+Added to the iptable
 <p align="center">
   <img src="/Screenshots/blocked ip.png" width="500" alt="added to iptables"/>
 </p>
-Added to the iptable
+
 
 ## Unblocking & Restore
 
