@@ -68,8 +68,8 @@ Blocking IP: 192.168.56.20, packet rate: 512.00 pkt/s
 ```
 <p align="center">
   <img src="/Screenshots/firewall_dos_blocker.png" width="500" alt="DOS-BLOCKER-SCRIPT"/>
-  <em>Figure 1: Script Execution </em>
 </p>
+Script Execution
 
 <p align="center">
   <img src="/Screenshots/dos-attack.png" width="500" alt="DOS-ATTACK"/>
