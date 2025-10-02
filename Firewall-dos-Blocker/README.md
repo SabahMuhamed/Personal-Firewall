@@ -64,6 +64,8 @@ THRESHOLD: 40
 Monitoring Network Traffic...
 Blocking IP: 192.168.56.20, packet rate: 512.00 pkt/s
 
+
+```
 <p align="left">
   <img src="/Screenshots/dos-attack.png" width="500" alt="DOS-ATTACK"/>
 </p>
@@ -78,7 +80,6 @@ Blocking IP: 192.168.56.20, packet rate: 512.00 pkt/s
 <p align="center">
   <img src="/Screenshots/blocked ip.png" width="500" alt="added to iptables"/>
 </p>
-```
 
 ## Unblocking & Restore
 
